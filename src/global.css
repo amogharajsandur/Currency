@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0%;
+  font-family: monospace, sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+  .actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  fieldset {
+    margin: 1rem;
+    padding: 1rem;
+    border: 0.1rem solid black;
+    border-radius: 0.7rem;
+  }
+
+  fieldset > legend {
+    text-align: center;
+  }

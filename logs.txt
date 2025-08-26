@@ -1,0 +1,20 @@
+==========
+Amogha's Guide:
+
+- Code implementation/changes (special comments)
+^ Challenges/bugs (potential)
+    => Solutions (potential)
+> Error message/console outputs
+# Comments (generic)
+@ Files (Where?)
+==========
+
+25 August 2025, Monday:
+    @src folder:
+        # Created components folder under which I tried to modularise the individual UI elements like header, footer, buttons
+    
+    @main.js: 
+        # This will bootstrap the application & select DOM elements
+    
+    @app.js:
+        # This will load the individual components

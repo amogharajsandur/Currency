@@ -1,0 +1,17 @@
+button {
+    padding: 0.5rem;
+    border: 0.1rem solid black;
+    border-radius: 0.2rem;
+    margin: 1rem;
+    background-color: white;
+}
+
+button:hover {
+    scale: 1.1;
+}
+
+button:active {
+    border: 0.1rem solid white;
+    background-color: black;
+    color: white;
+}
